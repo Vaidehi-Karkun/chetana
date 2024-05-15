@@ -1,0 +1,39 @@
+body,html
+{
+	font-family:arial;
+}
+.one
+{
+	width:28%;
+	float:2%;
+	margin:left;
+	background-color:mediumseagreen;
+	padding:10%;
+	border:1px solid black;
+	background:red;
+}
+.two
+{
+	width:28%;
+	float:2%;
+	margin:left;
+	background-color:lightblue;
+	padding:10%;
+	border:1px solid black;
+	background:purple;
+}
+.three
+{
+	width:28%;
+	float:2%;
+	margin:left;
+	background-color:mediumpurple;
+	padding:3%;
+	border:1px solid black;
+	background:blue;
+}
+img
+{
+	border-radius:2%;
+
+}
